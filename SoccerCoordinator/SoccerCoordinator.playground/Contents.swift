@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-
+// NOT FINAL VERSION! Check the playgroundpages folder for the completed version please.
 import UIKit
 
 var players: [[String : Any]] = [["name": "Joe Smith", "height": 42, "isExperienced": true, "guardian":"Jim and Jan Smith"],
